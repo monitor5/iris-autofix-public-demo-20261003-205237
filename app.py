@@ -4,7 +4,7 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 from urllib.parse import parse_qs, urlsplit
 
 
-def add(a, b)
+def add(a, b):
     return a + b
 
 
